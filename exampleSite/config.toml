@@ -6,8 +6,8 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "twentytwenty"
-title = "Twenty Twenty Hugo"
+theme = "Valoforce"
+title = "Valoforce"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
@@ -34,9 +34,9 @@ weight = 1
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
+description = "Valoforce"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Valoforce, your IT partner to make the best decisions"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
@@ -47,14 +47,14 @@ content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean comm
 enable = true
 title = "Contact us for more information."
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
+address = "Bordeaux, France"
 content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "About This Site"
+copyright = "Copyright &copy; 2021 valoforce.com"
+hours = "Monday–Friday: 9:00AM–5:00PM"
+title = "About Valoforce"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
@@ -62,11 +62,11 @@ image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "#"
+email = "contact@valoforce.com"
 facebook = "#"
 instagram = "#"
 linkedin = "#"
-twitter = "#"
+twitter = "https://twitter.com/valoforce"
 yelp = "#"
 [taxonomies]
 author = "author"
